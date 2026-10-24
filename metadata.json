@@ -1,0 +1,6 @@
+{
+  "name": "Apex Nexus",
+  "description": "Private tactical AI companion, screen observation engine, multi-window workstation, and terminal HUD for Samsung Galaxy S24 Ultra (Android 17 / One UI 9.0).",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
